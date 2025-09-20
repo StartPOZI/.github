@@ -7,6 +7,7 @@ markdown
 [![Version](https://img.shields.io/badge/version-3.0-blue)](https://startpozi.netlify.app)
 [![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 [![Privacy](https://img.shields.io/badge/privacy-100%25-brightgreen)](https://startpozi.netlify.app/about.html)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bcf51642-5514-4391-b795-542e386cb416/deploy-status)](https://app.netlify.com/projects/startpozi/deploys)
 
 🔍 Что такое StartPOZI?
 
@@ -121,3 +122,4 @@ StartPOZI существует благодаря энтузиазму разр�
 
 StartPOZI © 2023 - Поиск с уважением к вашей приватности
 Открытость | Прозрачность | Безопасность
+
