@@ -1,0 +1,100 @@
+StartPOZI is an anonymous metasearch engine and web browsing suite developed with a focus on user privacy and neutrality in search results. The project was publicly launched on October 25, 2022. The project's code is open source and available in a GitHub repository.
+Philosophy and Principles
+
+The project's core principle is to ensure user privacy by eliminating the collection and storage of personal data, search history, and the creation of behavioral profiles. A second key principle is to combat the "filter bubble" effect. Unlike many major search engines (such as Google, Bing, and Yandex), which personalize search results based on collected user data, StartPOZI consciously rejects this practice. This means that search results are not filtered according to the user's presumed interests, resulting in a more consistent and unbiased collection of information and, according to its creators, an opportunity to break out of the "information bubble."
+
+Search Technology
+
+StartPOZI positions itself as a metasearch engine. It doesn't maintain its own webpage index, but aggregates and processes results from multiple third-party sources. The system claims to use over 400 sources to generate results, including:
+
+Search engines (Bing, Yahoo!).
+
+Crowdsourced encyclopedias (Wikipedia).
+
+Thematic platforms (e.g., the cooking service Yummly).
+The ranking algorithm is aimed at selecting the most relevant results, rather than maximizing their number.
+
+Privacy Protection Technologies
+
+To ensure user anonymity and security, StartPOZI implements a comprehensive approach typical of modern cybersecurity solutions.
+
+
+In the search engine and extensions:
+
+Query anonymization: All search queries are encrypted, and the user's IP address is removed before processing.
+
+
+Tracker Blocking: Built-in tools prevent user tracking by advertising and analytics scripts.
+
+.
+
+Fingerprinting Protection: Technologies are used to prevent browser identification based on unique parameters.
+
+
+.
+
+In StartPOZI Browser:
+The browser was designed as a specialized solution for private web browsing and includes:
+
+A built-in tracker and ad blocker at the network level.
+
+Mechanisms for preventing IP address leaks (e.g., the use of proxy technologies).
+
+.
+
+Automatic clearing of cookies and session data.
+
+Ecosystem Products
+
+In addition to the web version of the search engine, available at https://startpozi.netlify.app/, the project includes:
+
+StartPOZI Browser: A specialized web browser based on open source solutions. The main features advertised are built-in blocking of ad and analytics trackers, as well as protection against IP address leaks and browser fingerprinting.
+
+Browser extensions: Plugins for major browsers (such as Chrome, Firefox, and Edge) that provide quick access to the StartPOZI search engine and some privacy features.
+
+
+Features and built-in tools
+
+The search engine includes a number of built-in utilities that are activated by directly entering relevant queries into the search bar:
+
+Working with IP and location: The "ip" query displays the user's IP address, approximate location, and postal code.
+
+Data verification and management:
+
+validate (email address) — checks the validity of an email address.
+
+shorten (link) / expand (link) — shortens a URL or restores the full form of a shortened link.
+
+qr (text) — generates a QR code.
+
+base64 encode (text) / base64 decode (text) — encodes or decodes data in Base64.
+
+hash (text) — performs hashing of text using a specified algorithm (MD5, SHA-1, SHA-2, SHA-3).
+
+Password generation: random passphrase — creates cryptographically strong passphrases.
+
+Time and calculation tools:
+
+calendar — built-in calendar.
+
+countdown — countdown timer.
+
+stopwatch — stopwatch.
+
+calc — calculator.
+
+Market positioning
+
+StartPOZI enters the niche of private search engines, competing with projects like Startpage and DuckDuckGo. Its key differentiators are:
+
+Emphasis on eliminating the "filter bubble" as a central philosophical and technological goal.
+
+Offering its own browser, creating a closed privacy ecosystem similar to Brave or Tor Browser.
+
+
+Many built-in tools (IP verification, email validation, QR code generator, etc.) are available, which is not a common practice among major competitors.
+
+Open source code allows for independent verification of privacy claims.
+
+Geographical availability and accessibility
+The service claims to support users worldwide and handle requests.
